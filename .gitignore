@@ -1,0 +1,36 @@
+# Private project notes (never publish)
+PROJECT_HANDOVER.md
+private/
+
+# Python caches and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+.codex/
+.agents/
+.idea/
+.vscode/
+
+# Generated models, textures, and export output
+output/
+exports/
+temp/
+*.glb
+*.gltf
+*.obj
+*.mtl
+*.fbx
+*.blend
+*.blend1
+*.log
+
+# OS files
+Thumbs.db
+.DS_Store

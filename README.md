@@ -1,5 +1,7 @@
 # GLB to DAZ for ComfyUI
 
+**Version 1.0 — November 24, 2026**
+
 A small ComfyUI custom node that uses Blender to convert a textured GLB into an **OBJ, MTL, and separate texture files** for DAZ Studio.
 
 > **Maintenance status:** I am sharing this project as-is and do not plan to maintain it. Please do not expect support, bug fixes, compatibility updates, or pull request reviews. You are welcome to fork it and continue development.
